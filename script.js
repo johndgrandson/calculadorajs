@@ -1,4 +1,3 @@
-
 function insert(n) {
     var num = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = num + n;
